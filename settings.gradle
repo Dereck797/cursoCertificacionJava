@@ -1,0 +1,4 @@
+rootProject.name = 'cursoCertifiacionJava'
+include 'java'
+include 'java'
+
