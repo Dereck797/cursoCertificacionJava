@@ -1,3 +1,5 @@
+package CursoJavaV1;
+
 public class VariableDeclaration {
 
     public static int a,d,c = 4;

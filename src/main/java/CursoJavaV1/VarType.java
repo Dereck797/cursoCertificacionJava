@@ -1,3 +1,5 @@
+package CursoJavaV1;
+
 public class VarType {
     // Existen dos tipos de variables: Variables objeto y primitivas
     public static void main(String[] args) {

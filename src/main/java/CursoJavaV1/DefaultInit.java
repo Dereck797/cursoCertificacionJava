@@ -1,4 +1,4 @@
-
+package CursoJavaV1;
 
 public class DefaultInit {
 

@@ -1,3 +1,5 @@
+package CursoJavaV1;
+
 public class AmbitoExample {
 
     /*Las variables puedne declararse:     */
