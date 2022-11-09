@@ -12,7 +12,7 @@ public class Main {
         String t = "Hola a todos";
         String s = "todos";
 
-        IStringsUtil contains = (t,s) -> t.contains(s);
+        /*IStringsUtil contains = (t,s) -> t.contains(s);*/
 
     }
 

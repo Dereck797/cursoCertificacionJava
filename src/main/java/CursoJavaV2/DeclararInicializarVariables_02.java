@@ -2,7 +2,7 @@ package CursoJavaV2;
 
 // Declaración e inicialización de variables y su ámbito
 
-public class DeclararInicializarVariables_2 {
+public class DeclararInicializarVariables_02 {
 
     public static void main(String[] args) {
         //Declaración
