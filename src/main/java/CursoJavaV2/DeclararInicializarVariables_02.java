@@ -28,7 +28,7 @@ public class DeclararInicializarVariables_02 {
 
     }
 
-    // Ámbito de variables
+    // mbito de variables
 
     // Las variables pueden declararse a nivel de clase compartidas por todos los métodos. Se les conoce como atributos o campos.
     int n;
