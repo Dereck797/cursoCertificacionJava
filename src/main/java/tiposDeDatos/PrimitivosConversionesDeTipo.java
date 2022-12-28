@@ -26,13 +26,20 @@ public class PrimitivosConversionesDeTipo {
     int g = (int)r; // Casting
 
 
+    // No siempre es obligatorio agregar la L al final
+    float l = 23;
+
+    // También se puede hacer una asignación como la siguiente
+
+    int p = 0b110_100; // Se asigna en binario
+
     // Cuando no es posible una conversipon implicita, siempre será posible una conversión explicita.
 
     byte b = 5;
     char w = (char)b;
 
     float k = 3.4f;
-    long l = (long)k;
+    long q = (long)k;
 
 
 }
