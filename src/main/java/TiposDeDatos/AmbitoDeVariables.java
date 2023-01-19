@@ -1,4 +1,4 @@
-package tiposDeDatos;
+package TiposDeDatos;
 //------------------------------------------------------------------------------------
 // AMBITO DE LAS VARIABLES
 
